@@ -12,9 +12,16 @@ p {
   color: blueviolet;
 }
 
-/* classes */
+/* classes - usasse sempre . para chamar  é para elemento que se repete*/
 .paragraph {
   background-color: black;
   color: aqua;
   padding: 5px;
+}
+
+/* ids - usasse sempre . para chamar. é para elemento unico */
+#exclusive-title {
+  background-color: purple;
+  color: yellow;
+  padding: 10px;
 }
