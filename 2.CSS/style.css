@@ -26,7 +26,7 @@ p {
   padding: 10px;
   font-size: 40px;
 }
-/* ordem das regras */
+/* ordem das regras - Id(#) / class(.) e tag */
 h2 {
   border-bottom: 2px solid red;
 }
