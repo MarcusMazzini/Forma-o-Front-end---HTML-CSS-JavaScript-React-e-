@@ -74,10 +74,22 @@ h2 {
   color: rgba(100, 199, 45, 0.3);
 }
 
+/* hsl */
 .hsl {
   color: hsl(100, 20%, 50%);
 }
 
 .hsl-2 {
   color: hsl(201, 82%, 48%);
+}
+
+/*  background */
+.bg {
+  background-color: #000;
+  color: yellow;
+}
+
+.bg-2 {
+  background-color: rgb(200, 20, 40);
+  color: #00eaff;
 }
