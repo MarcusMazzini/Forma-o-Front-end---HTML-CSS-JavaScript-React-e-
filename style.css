@@ -8,9 +8,9 @@ h3 {
   color: green;
 }
 
-p {
+/* p {
   color: blueviolet;
-}
+} */
 
 /* classes - usasse sempre . para chamar  é para elemento que se repete*/
 .paragraph {
@@ -92,4 +92,17 @@ h2 {
 .bg-2 {
   background-color: rgb(200, 20, 40);
   color: #00eaff;
+}
+
+/* background opacity */
+
+.bg-opacity {
+  background-color: green;
+  opacity: 0.2;
+}
+
+.bg-opacity-2 {
+  background-color: #999;
+  color: #000;
+  opacity: 0.8;
 }
