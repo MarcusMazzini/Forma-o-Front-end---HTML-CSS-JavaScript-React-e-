@@ -69,3 +69,7 @@ h2 {
 .mixed-rgb {
   color: rgb(199, 21, 47);
 }
+
+.rgba {
+  color: rgba(100, 199, 45, 0.3);
+}
