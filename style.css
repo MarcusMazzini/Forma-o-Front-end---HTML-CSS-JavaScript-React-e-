@@ -156,3 +156,14 @@ h2 {
 }
 
 /* No without padding, não tem respiro. O texto está colado na margem, enquanto que no padding existe amais harmonia */
+
+/* padding individual */
+
+.padding-individual {
+  background-color: #222;
+  color: #fff;
+  padding-top: 5px;
+  padding-left: 10px;
+  padding-right: 20px;
+  padding-bottom: 40px;
+}
