@@ -179,3 +179,20 @@ h2 {
   padding: 10px 20px;
   /* Seria assim - padding: 10px 20px 10px 20px; */
 }
+
+/* Padding com width */
+.without-border-box {
+  background-color: #444;
+  color: #fff;
+  width: 400px;
+  padding: 50px;
+}
+/* no exemplo acima ele está excedendo px, está em 450 ao inves de 400 */
+
+.border-box {
+  background-color: #666;
+  color: #fff;
+  width: 400px;
+  padding: 50px;
+  box-sizing: border-box;
+}
