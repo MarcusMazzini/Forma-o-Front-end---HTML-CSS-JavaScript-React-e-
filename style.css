@@ -130,3 +130,17 @@ h2 {
   background-position: center;
   background-size: cover;
 }
+
+/* height e width */
+
+.height-width {
+  height: 200px;
+  width: 100px;
+  background-color: red;
+}
+
+.height-width-2 {
+  height: 300px;
+  background-color: #333;
+}
+/* a altura tem que ser definida, pois por padrão vem com 0, porém a largura se não definimos vem preenchendo totalmente*/
