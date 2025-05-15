@@ -144,3 +144,15 @@ h2 {
   background-color: #333;
 }
 /* a altura tem que ser definida, pois por padrão vem com 0, porém a largura se não definimos vem preenchendo totalmente*/
+/* padding */
+.without-padding {
+  background-color: #111;
+  color: #fff;
+}
+
+.padding {
+  background-color: #333;
+  padding: 20px;
+}
+
+/* No without padding, não tem respiro. O texto está colado na margem, enquanto que no padding existe amais harmonia */
